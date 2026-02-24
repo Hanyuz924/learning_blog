@@ -1,0 +1,8 @@
+baseURL: "https://Hanyuz924.github.io/learning_blog/"
+languageCode: en-us
+title: My New Hugo Site
+theme: ["PaperMod"]
+params:
+  author:
+    name: "Chen Guanxi" 
+    email: "your_email@example.com"

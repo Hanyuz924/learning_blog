@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>en-us</language>
+    <managingEditor>your_email@example.com (Chen Guanxi)</managingEditor>
+    <webMaster>your_email@example.com (Chen Guanxi)</webMaster>
+    <lastBuildDate>Tue, 24 Feb 2026 16:45:47 -0500</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>//localhost:1313/docs/test/</link>
+      <pubDate>Tue, 24 Feb 2026 16:45:47 -0500</pubDate><author>your_email@example.com (Chen Guanxi)</author>
+      <guid>//localhost:1313/docs/test/</guid>
+      <description>&lt;h3 id=&#34;test-123&#34;&gt;TEST 123&lt;/h3&gt;</description>
+    </item>
+  </channel>
+</rss>
